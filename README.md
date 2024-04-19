@@ -1,1 +1,2 @@
-# WORDLE
+#WORDLE
+This project involved writing code for the Wordle game using different data structures such as lists, sets, and tries. By implementing the game with these data structures, it was possible to explore various approaches to storing and manipulating the game's word list. A comparative analysis was conducted to evaluate the performance of each data structure in terms of space and time complexity for operations like word searches and gameplay. The findings helped identify the most efficient approach for managing the word list and optimizing gameplay.
